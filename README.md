@@ -2,24 +2,15 @@
 
 A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
 
-## 📋 Prerequisites
+## there is aversion of this app with bloc and cleanArch but i am still working on it with my developer team as part of Full E-commerce Project .
 
-- Flutter SDK (^3.29.2)
-- Dart SDK
-- Android Studio / VS Code with Flutter extensions
-- Android SDK / Xcode (for iOS development)
+## Preview 
+![Demo](preview/1.png)
+![Demo](preview/2.png)
+![Demo](preview/3.png)
+![Demo](preview/4.png)
+![Demo](preview/5.png)
 
-## 🛠️ Installation
-
-1. Install dependencies:
-```bash
-flutter pub get
-```
-
-2. Run the application:
-```bash
-flutter run
-```
 
 ## 📁 Project Structure
 
